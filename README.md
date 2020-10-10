@@ -7,47 +7,14 @@
   # BiteReport
 
 
-  ## Description
- The app that lets you save your own personal food reviews from any restaurant you visit.
-
-
-
-
-
-
-  ![picture](public/assets/images/Search.gif)
-
-
-
-
-
-  ![picture](public/assets/images/signup.gif)
-
-
-
-
-
-  ![picture](public/assets/images/writeAreview.gif)
-
-
-
-
-
-
-## Deployed Webiste
-
-
-
-
-
-
-
 
 
 
   ## Table of Contents
   * [Description](#Description)
+  * [Motivation for Development](#Motivation)
   * [Deployed Website](#Deployed)
+  * [User Story](#User)
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Contributing](#Contributing)
@@ -55,6 +22,136 @@
   * [Questions](#Questions)
   * [Author](#Author)
   * [License](#License)
+  
+  
+  
+  
+  
+  
+  
+  
+
+  ## Description
+ A restaurant app that enables a user to save personal reviews about restaurant menu items and whether you enjoyed them or not.
+
+
+     
+          
+
+
+     
+     
+
+  ## Motivation for Development
+ Recalling details about previous meals or drinks you’ve had at a specific eatery can sometimes be difficult to recall especially if it's been a long time since your last visit.
+
+
+
+     
+          
+
+     
+     
+
+  ## User Story
+ As a restaurant goer, I want an application where I can enter my personal reviews of dishes or drinks that I enjoyed so that I can easily recall them next time I visit.
+
+
+
+
+
+
+
+
+
+
+
+ 
+    
+    
+    
+    
+    
+
+
+
+
+*Search for a Restaurant*      
+![picture](public/assets/images/Search.gif)   
+---
+
+
+
+ 
+  
+ 
+ 
+   
+  
+  
+  
+  
+
+     
+     
+     
+     
+
+
+
+
+
+*Sign Up*     
+![picture](public/assets/images/signup.gif)   
+---
+
+
+     
+     
+     
+     
+    
+  
+  
+
+
+
+
+
+      
+      
+      
+
+*Write a Review*      
+![picture](public/assets/images/writeAreview.gif)  
+---
+
+
+       
+  
+  
+  
+
+
+
+
+
+       
+
+
+
+## Deployed Website: 
+https://bitereport.herokuapp.com/ 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -79,17 +176,22 @@
 
 
 
-  ## Author:
-  Claudion Gallo, Jake Haberle, Metasabeya Ketsela, Keldan Cundy, Gabrielle Maxey
+  ## Authors:
+  Claudio Gallo, Jake Haberle, Metasabeya Ketsela, Keldan Cundy, Gabrielle Maxey
 
-  ![](http://i.imgur.com/VlgBKQ9.png)Email:
+  ![](http://i.imgur.com/VlgBKQ9.png) Email: [Gabrielle Maxey](gmaxey@gmail.com)     
 
 
-  ![](http://i.imgur.com/9I6NRUm.png)Github: mrclaudiogallo GabrielleM45 jhaberle metasabeya keldykins>
+  ![](http://i.imgur.com/9I6NRUm.png) Github:      
+  [Gabrielle Maxey](https:/github.com/GabrielleM45),     
+  [Claudio Gallo](https://github.com/mrclaudiogallo),    
+  [Jake Haberle](https://github.com/jhaberle),     
+  [Metasabeya Ketsela](https://github.com/metasabeya),    
+  [Keldan Cundy](https://github.com/keldykins)      
 
 
 
   ## License
-  *This application is Licensed under the following license:*\
+  *This application is Licensed under the following:*\
   **[mit](https://choosealicense.com/licenses/mit/)**
 
